@@ -24,11 +24,9 @@ print("Alhamdulillah","Mashallah")
 
 print("Bye")
 
-<<<<<<< HEAD
 
-=======
+
 print('See you next tutorial')
 
 
 print("Mohanad")
->>>>>>> print2
