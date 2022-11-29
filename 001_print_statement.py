@@ -1,3 +1,7 @@
+''' This is the entry point in learning python coding
+for machine learning and data science.
+The code is designed for research beginners and junior interested individuals.'''
+
 
 # Single print
 print("Alhamdulillah")
@@ -16,5 +20,7 @@ print()
 # when 'end=""' there will be no new line in the next print
 print("Alhamdulillah","Mashallah",end="")
 print("Alhamdulillah","Mashallah")
+
+
 
 
