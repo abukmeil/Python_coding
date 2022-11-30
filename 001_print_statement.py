@@ -23,3 +23,12 @@ print("Alhamdulillah","Mashallah")
 
 
 
+<<<<<<< HEAD
+=======
+
+
+print('See you next tutorial')
+
+
+print("Mohanad")
+>>>>>>> a56fc595b7f2c4c6a26112d3a61a0777b003647c
