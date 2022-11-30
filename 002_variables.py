@@ -68,6 +68,7 @@ else:
     print("offline")
 
 'Do not put True/ False inside the quotes " ", it will turn to the string'
+'Do not use Python keyword as variables such as "True=4"'
 
 # Multiple assignment of variables
 print()
