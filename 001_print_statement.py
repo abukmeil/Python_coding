@@ -21,4 +21,3 @@ print()
 print("Alhamdulillah","Mashallah",end="")
 print("Alhamdulillah","Mashallah")
 
-ss
