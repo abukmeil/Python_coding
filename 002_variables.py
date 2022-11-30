@@ -14,6 +14,12 @@ print("You are "+str(age)+" years old")
 'Another way to print int with str  by separating variables into two sets arguments using ","'
 print("You are",age,"Years old")
 
+item1= "rent"
+item2= "gas"
+item3= "groceries"
+print("Expenses item: ", item1,item2,item3)
+
+
 
 'The most common method to print variables with text is called f-string'
 '{ } is called place holder in print'
