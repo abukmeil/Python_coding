@@ -21,5 +21,3 @@ print()
 print("Alhamdulillah","Mashallah",end="")
 print("Alhamdulillah","Mashallah")
 
-
-print('Thanks')
