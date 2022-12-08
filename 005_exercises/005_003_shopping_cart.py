@@ -1,4 +1,4 @@
-################################### Calculate the area of a rectangle #########################
+###################################  Shoping_cart #########################
 
 item        =   input("What item would you to buy?: ")
 price       =   float(input("What is the price?: "))
