@@ -18,7 +18,7 @@ age=int(input("Enter your age: "))
 if age <0:
     print("Enter valid age")
 elif age>= 100:
-    print("You are too old to signin")
+    print("You are too old to sign in")
 elif age >=33:
     print('You are active')
 else:
@@ -26,9 +26,9 @@ else:
 
 # Example food
 
-respnse=input("Would you like food? (Y/N): ")
+response=input("Would you like food? (Y/N): ")
 
-if respnse=="Y":
+if response =="Y":
     print("Have some food!")
 else:
     print("No food for you")
@@ -53,3 +53,4 @@ if online:
     print("You are online")
 else:
     print("You are offline")
+

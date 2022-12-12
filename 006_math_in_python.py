@@ -4,7 +4,7 @@
 # Arithmetic operation
 'Addition'
 Friends=0
-'Increment variable Friendsby 1'
+'Increment variable Friends by 1'
 Friends=Friends+1
 print(Friends)
 'Another way using augmented assignment operator'
@@ -67,7 +67,7 @@ print(result)
 result=max(x,y,z)
 print(result)
 
-'Minimum valeue'
+'Minimum value'
 result=min(x,y,z)
 print(result)
 
