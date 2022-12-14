@@ -31,7 +31,7 @@ while job =="":
 else:
     print(f"Your job is {job}")
 '''
-# Age examle
+# Age example
 age=int(input("Enter your age: "))
 
 while age <0:
