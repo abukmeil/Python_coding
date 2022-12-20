@@ -1,6 +1,6 @@
 ################################# String indexing ############################
 '''
-String indexing allows us to accessing elements of a sequence such as a string using indexing operator []
+String indexing allows us to access elements of a sequence such as a string using the indexing operator []
 [] is called an indexing operator
 
 [start: end: stop]
@@ -13,12 +13,12 @@ print(credit_card_number[0])
 print(credit_card_number[1])
 
 
-'With indexing operator, up to three filed that can be filled [start : end: stop]'
+'With indexing operator, up to three fileds can be filled [start : end: stop]'
 
 'Accessing the first three elements'
 print(credit_card_number[0:3])  # 4 is exclusive but 0 is inclusive
 
-'Printing with frequency of 2 indices'
+'Printing with the frequency of 2 indices'
 print(credit_card_number[0:4:2])
 
 'Printing from a specific index to the end'
@@ -28,7 +28,7 @@ print(credit_card_number[5:])
 print(credit_card_number[-1])
 
 'using step [:,:,step]'
-'Printing with frequency of 2 indices'
+'Printing with the frequency of 2 indices'
 print(credit_card_number[0:4:2])
 
 'Printing all elements with a step of three i.e., step=3'

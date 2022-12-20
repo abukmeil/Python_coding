@@ -1,6 +1,6 @@
 ################################# String indexing exercise  ############################
 
-'Write a python program that ask user to insert his/ her email and return the username and the domain'
+'Write a python program that asks the user to insert his/ her email and return the username and the domain'
 
 email=input("Enter your email please: ")
 

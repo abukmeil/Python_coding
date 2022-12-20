@@ -49,7 +49,7 @@ result=name.isdigit()
 print(f" The string contains digits? {result}")
 print('')
 
-'isalpha method returns a boolean result if the string contains only alphpatical characters '
+'isalpha method returns a boolean result if the string contains only alphabetical characters '
 result=name.isalpha()
 print(f" The string contains only alphabetical chars: {result}")
 

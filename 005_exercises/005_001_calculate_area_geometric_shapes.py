@@ -8,7 +8,7 @@ area=length*width
 print(f"The are of the retangle is {area} m\u00b2 " )
 print()
 
-################################### Calculate the voulum of a cylinder  #########################
+################################### Calculate the volume of a cylinder  #########################
 ' We need three variables length, width, and height'
 
 length=float(input("Enter the length of the cylinder: "))
@@ -20,7 +20,7 @@ print(f"The volume of the cylinder is {volume} m\u00b3")
 print()
 
 
-################################### Calculate the are of a triangle  #########################
+################################### Calculate the area of a triangle  #########################
 'We need two variables height and base  '
 
 height=float(input("Enter the height of the triangle: "))

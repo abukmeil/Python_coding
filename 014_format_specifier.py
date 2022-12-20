@@ -13,7 +13,7 @@ Flags are listed as follows:
 :>          = right justify
 :^          = center align
 :+          = indicates a positive value it shows positive and negative signs
-:=          = place sign in the leftmost position
+:=          = place the sign in the leftmost position
 :, Comma separated
 
 '''
@@ -51,7 +51,7 @@ print(f"The third weight is {weight3:10} Kg")
 print("")
 
 'If you want to add zeros (add zeros) before printing use :0 number '
-' Note we use :006 to pad one zero an so on for some python versions'
+' Note we use :006 to pad one zero and so on for some python versions'
 num=2
 print(f"{num:03}")
 print(f"The  first weight is {weight1:08} Kg")
@@ -66,7 +66,7 @@ print(f"The second weight is {weight2:<10} Kg")
 print(f"The third weight is {weight3:<10} Kg")
 print("")
 
-'If you want to right justify the number we use {:> number } i.e., it add the space after'
+'If you want to right justify the number we use {:> number } i.e., it adds the space after'
 ' '
 print(f"The  first weight is {weight1:>10} Kg")
 print(f"The second weight is {weight2:>10} Kg")
@@ -100,7 +100,7 @@ print(f"The second price is {price2:,} C")
 print(f"The third price is {price3:,} C")
 print("")
 
-'We can use combined flags to gethers'
+'We can use combined flags to together'
 val1  =   123_45.587_56
 val2  =   - 123.1248
 val3  =   578_444_2.455

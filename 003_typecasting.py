@@ -6,7 +6,7 @@
 '''
 
 # Explicit casting: manually converting from one data type to another.
-'We use explicit casting keyword such as int, str, float, bool'
+'We use explicit casting keywords such as int, str, float, bool'
 
 my_name="Mohanad"
 my_age=35

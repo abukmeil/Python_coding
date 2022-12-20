@@ -4,7 +4,7 @@
 'To accept any user input we use the "input(HERE WE CAN TYPE OUR PROMPT)" function'
 
 input("Enter your name: ")
-' let us  assigning it, i.e, input to a variable'
+' let us assign it, i.e, input to a variable'
 name=input("Enter your name: ")
 'We can print our name within a message as follows'
 print(f"Hello {name}")

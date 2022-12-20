@@ -1,7 +1,7 @@
 ################################# While loop  ############################
 
 ''' Uisng while loop allows us to execute some
-codes while some conditions remain are True'''
+codes, while some conditions remain, are True'''
 
 
 job=input("Enter your job please: ") # Remeber this is called prompt
@@ -54,7 +54,7 @@ else:
 
 
 'Using Or log  operator'
-'Example: Ask the user to  tyoe number between 0:10'
+'Example: Ask the user to type  a number between 0:10'
 
 number=int(input("Enter number between 1 to 10: "))
 
