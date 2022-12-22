@@ -4,8 +4,8 @@ Expenses=[1200,500,20,40,1600,500,700,4,20]
 and corresponding months are
 Months = ["January", "February", "March", "April", "May","June","July","August"]
 
-Write a python code that  ask you to insert the expenses from  the list
-and it will returns with month this expense is associated with.
+Write a python code that asks you to insert the expenses from  the list
+and it will return with the month this expense is associated with.
 '''
 
 Expenses=[1200,500,20,40,1600,500,700,4,30]
@@ -20,7 +20,7 @@ for idx,val in enumerate(Expenses):
         print(f" You spent  {Expense_input} in {Months[idx]}")
         break
 
-#### Another solution using negative value index
+#### Another solution using a negative value index
 
 holder=-1
 for i in range(len(Expenses)):
