@@ -29,3 +29,16 @@ for i in range(enter_second,-1,-1):
     hours=int(i/(60*60))
     print(f"{hours:02}:{minutes:02}:{seconds:02}")  # We considered the format specifier for 0 padding i.e., adding 0 before numbers from 0-9
     time.sleep(0.8)
+
+
+
+
+
+
+
+
+
+
+
+
+
