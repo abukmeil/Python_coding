@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23f6155a-06c3-4eff-aa7e-4bc3dab72cc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/019_009_credit_card_validator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/019_008_countdown_timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/019_008_countdown_timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/019_009_credit_card_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/019_009_credit_card_validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

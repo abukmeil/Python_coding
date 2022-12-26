@@ -1,5 +1,5 @@
 '''
-Suppose work a bank and you are asked to write a python program that validate the credit card for
+Suppose you work at a bank and you are asked to write a python program that validates the credit card for
 the customers give a protocol.
 
 verification protocol:
@@ -7,8 +7,8 @@ verification protocol:
 1- Remove and ' ', '-'.'_'
 2- Add all digits in the odd places from right to left
 3- Double every second digit from right to left (If the result is two digits, then add them together to get a single number)
-4- Sum the totals of the step 2 , 3
-5- If if sum is divided by 10, then the credit card is valid
+4- Sum the totals of the steps 2 , 3
+5- If if the sum is divided by 10, then the credit card is valid
 
 '''
 import copy
