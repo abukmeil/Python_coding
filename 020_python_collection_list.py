@@ -168,6 +168,14 @@ zero_one_list= zero_list+one_list
 print(zero_one_list)
 print('-'*50)
 
+'Extending list by another list'
+zero_list=[0]*10
+one_list=[1]*5
+zero_list.extend(one_list)
+print(zero_list)
+print('-'*50)
+
+
 'List slicing, we use the list operator[start:end]. If you do not specify the start then it will consider 0, and the same for end '
 num_list=[10,20,30,40,50,60,70,80]
 sub_num_list=num_list[2:5]
