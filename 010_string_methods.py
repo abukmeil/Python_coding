@@ -71,6 +71,13 @@ print(f"The refind mobile number is: {result}")
 print('')
 
 
+'format string vs row string vs fr string'
+i=5
+print(f" The result in format string = {i*i}") # format string
+print('')
+print(r'c:\users\folder') # raw string
+print(r'c:\\\users\folder') # raw string
+print (fr'c:\users\folder{i*2}') # fr string
 
 
 

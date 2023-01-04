@@ -108,4 +108,3 @@ print(f"The  first value is {val1:+,.2f} C")
 print(f"The second value is {val2:+,.2f} C")
 print(f"The third value is {val3:+,.2f} C")
 print("")
-

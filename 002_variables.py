@@ -91,5 +91,21 @@ print(x)
 print(y)
 print(z)
 
+'Variable swapping: (1) traditional method by short hand variable swapping)'
+x=2
+y=3
+
+z=x
+x=y
+y=z
+del (z)
+print (x,y)
+
+'Variable swapping: (2) pythonic way '
+x=2
+y=3
+x,y=y,x
+print(x,y)
+
 
 
