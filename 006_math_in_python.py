@@ -110,6 +110,10 @@ print(math.floor(10.2))
 print('')
 
 # numerize lib for making large numbers readble
+<<<<<<< HEAD
+
+=======
+>>>>>>> 6967b98cc12337b4ebbf26d1081b4066f6334848
 from numerize import numerize as n
 num=123_456_654_213
 print(n.numerize(num))
