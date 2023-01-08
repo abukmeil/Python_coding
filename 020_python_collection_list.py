@@ -1,6 +1,19 @@
 #################################  List ############################
 
 '''
+<<<<<<< HEAD
+A collection is a single variable that is used to store multiple variables
+
+A list is 1-D collection that can store or hold different data types.
+
+The characteristic of a list is listed as follows:
+
+1- It can be initiated by using double square brackets [].
+2- I can hold much different data types such as str, int, etc.
+3- Elements inside a list are ordered  element and accessed by index.
+3- It allows duplicating elements.
+4- lists are mutable and iterateable.
+=======
 A list is 1-D collection that can store or hold different data types. The characteristic of as list:
 
 1- It can be initiated by using double square brackets as follows []
@@ -8,18 +21,32 @@ A list is 1-D collection that can store or hold different data types. The charac
 3- elements inside a list are ordered  element and accessed by index
 3- it allows duplicating elements.
 4- lists are mutable and iterateable
+>>>>>>> 6967b98cc12337b4ebbf26d1081b4066f6334848
 '''
 
 'Creating a variable'
 Fruits=""
 print(Fruits)
+<<<<<<< HEAD
+print('-'*50)
+=======
+>>>>>>> 6967b98cc12337b4ebbf26d1081b4066f6334848
 
 'We can turn this variable into a list using square brackets'
 Fruits=[]
 print(Fruits)
+<<<<<<< HEAD
+print('-'*50)
+
+'The above line initiating an empty list and that is similar to the following'
+Fruits=list()
+print(Fruits)
+print('-'*50)
+=======
 
 'the above line initiating an empty list and that is similar to the following'
 Fruits=list()
+>>>>>>> 6967b98cc12337b4ebbf26d1081b4066f6334848
 
 'Creating a list of fruits'
 Fruits=["apple","banana","pineapple","cherry"]
@@ -132,7 +159,10 @@ print('-'*50)
 'What if we infer an element that is not in a list, then an error will return'
 #print(Fruits.index('orange'))
 print('-'*50)
+<<<<<<< HEAD
+=======
 
+>>>>>>> 6967b98cc12337b4ebbf26d1081b4066f6334848
 'Since the duplicate are allowed in a list, then we can use the count method'
 Fruits=["apple","banana","pineapple","cherry","cherry","cherry"]
 print(Fruits.count('cherry'))
