@@ -8,15 +8,15 @@ area=length*width
 print(f"The are of the retangle is {area} m\u00b2 " )
 print()
 
-################################### Calculate the volume of a cylinder  #########################
+################################### Calculate the volume of a cube  #########################
 ' We need three variables length, width, and height'
 
-length=float(input("Enter the length of the cylinder: "))
-width=float(input("Enter the width of the cylinder: "))
-height=float(input("Enter the height of a cylinder: "))
+length=float(input("Enter the length of the cube: "))
+width=float(input("Enter the width of the cube: "))
+height=float(input("Enter the height of the cube: "))
 
 volume=length*width*height
-print(f"The volume of the cylinder is {volume} m\u00b3")
+print(f"The volume of the cube is {volume} m\u00b3")
 print()
 
 

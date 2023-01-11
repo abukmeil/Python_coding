@@ -1,4 +1,4 @@
-################################# String indexing ############################
+################################# String indexing and slicing ############################
 '''
 String indexing allows us to access elements of a sequence such as a string using the indexing operator []
 [] is called an indexing operator

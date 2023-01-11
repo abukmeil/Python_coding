@@ -11,13 +11,8 @@ The characteristic of a tuple is listed as follows:
 2- I can hold much different data types such as str, int, etc.
 3- Elements inside a list are ordered elements and accessed by index
 3- It allows duplicating elements.
-4- Tuples are immutable and iterateable
-<<<<<<< HEAD
-5-  Tuples are faster than lists
-5-  Tuples are faster than lists
-=======
+4- Tuples are immutable and iterable
 5-  are faster than lists
->>>>>>> cc871c2e5f6771f3b78774d29c05869cfc317edf
 '''
 
 Fruits=('cherry','banana','apple','watermelon', 'pineapple', 'coconut','banana')

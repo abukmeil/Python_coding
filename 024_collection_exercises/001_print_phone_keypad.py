@@ -25,7 +25,7 @@ print('-'*50)
 
 for tuple in elements_pad:
     for element in tuple:
-        print(element,end=' ')
+        print(element,end='     ')
     print('')
 
 

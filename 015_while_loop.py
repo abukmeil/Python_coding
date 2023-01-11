@@ -1,6 +1,6 @@
 ################################# While loop  ############################
 
-''' Uisng while loop allows us to execute some
+''' Using  while loop allows us to execute some
 codes, while some conditions remain, are True'''
 
 

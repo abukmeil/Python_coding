@@ -13,12 +13,15 @@ Username=input("Enter your name please: ")
 
 if len(Username) >12:
     print(" your username can't be more than 12 character")
+    print(Username.find(" ")==1)
+
 
 elif not Username.find(" ")==-1:
     print("your username can't contain spaces")
+    print(not Username.find(" ")==-1)
 
 elif Username.isalpha()==False:
-    print("Your usernamr can't contain digits")
+    print("Your username can't contain digits")
 else:
     print(f"Welcome {Username} ")
 

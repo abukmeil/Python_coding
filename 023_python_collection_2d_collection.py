@@ -31,6 +31,7 @@ print('-'*50)
 'To create two lists, we have to open double [], or simply open [] in insert inside i-d list'
 restaurant=[foods,beverages]
 print(restaurant)
+print(restaurant[0][0])
 print('-'*50)
 
 'Accessing the 2-D list by an index is different than 1-D list'

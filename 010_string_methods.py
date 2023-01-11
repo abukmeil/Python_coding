@@ -70,6 +70,10 @@ result=mobile_num.replace("-","")
 print(f"The refind mobile number is: {result}")
 print('')
 
+'Retrieve the index of of and element'
+result=mobile_num.index("-")
+print(f"The index of '-': {result}")
+print('')
 
 'format string vs row string vs fr string'
 i=5

@@ -2,7 +2,7 @@
 
 '''
 - Is a loop that is found within a code of another loop.
-- Tow consecutive loops are formed to execute one task, i.e, in teh structure there is an outer loop and an inner loop
+- Tow consecutive loops are formed to execute one task, i.e, in the structure there is an outer loop and an inner loop
 -or one loop inside another loop    outer loop:
                                         inner loop:
 - The form of nested loop is situational, i,e, your can find for loop inside for loop, or for loop insider wile loop,
@@ -16,23 +16,23 @@ for i in range(1,16,1):
     print(i)
 print('')
 
-'To print the number horizontaly, we use end statement'
+'To print the number horizontally, we use end statement'
 for i in range(1,16,1):
     print(i,end="")
 print('')
 
-'If you wnat to add little bit spaces between numbers'
+'If you want to add little bit spaces between numbers'
 for i in range(1,16,1):
     print(i,end=' ')
 
-'Suppose we want to repeat the sequance of number three times, we use another loop with rand'
+'Suppose we want to repeat a sequence of a number three times, we use another loop'
 
 for i in range(3):
     for i in range(1,16,1):
         print(i,end=' ')
 print("")
-' All were printed at the same line, we need to separate each sequence'
 
+' at the above code, all were printed at the same line and we need to separate each sequence'
 for i in range(3):
     for i in range(1,16,1):
         print(i,end='')
@@ -44,7 +44,7 @@ for i in range(3):
         print(j,end='')
     print('')
 
-#  Example: Printing rectangel shape based on user input
+#  Example: Printing a rectangle shape based on user input
 
 rows=int(input('Enter the number of rows: '))
 column=int(input('Enter the number of columns: '))

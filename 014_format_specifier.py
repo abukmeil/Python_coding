@@ -108,3 +108,12 @@ print(f"The  first value is {val1:+,.2f} C")
 print(f"The second value is {val2:+,.2f} C")
 print(f"The third value is {val3:+,.2f} C")
 print("")
+
+'%s is used for as string specifier'
+name = "Mohanad"
+print("Hello, %s!"  %name)
+
+'%d is used with integer variables'
+name = "Mohanad"
+age=35
+print("Your name is %s and your age is %d"%(name,age))

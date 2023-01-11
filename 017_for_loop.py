@@ -1,19 +1,19 @@
 ################################# for loop ############################
 '''
-for loop: is a programming mechanism to execute a block of code
+For loop: is a programming mechanism to execute a block of code
 for a fixed number of times through the iteration approach.
 
 In for loop, you are able to iterate over:
-1- list
-2- range
-3- string
-4- sequence
-5- enumerate indices
-6- any iterable object
+1- List
+2- Range
+3- String
+4- Sequence
+5- Enumerate indices
+6- Any iterable object
  '''
 
 'Use range function to iterate over, note you can not print range function because it is a python object and you need to unpack it using list(range)'
-'range[inclusive, execlusive, step] range[0,4,1] print 0,1,2,3 only '
+'range[inclusive, exclusive, step] range[0,4,1] print 0,1,2,3 only '
 
 'Counter using for loop for 20 times'
 for x in range(1,21,1):

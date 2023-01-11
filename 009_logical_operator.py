@@ -24,7 +24,7 @@ print("")
 
 'or operator'
 
-Humidity
+Humidity=30
 
 if Humidity  > 30 or Humidity < 50:
     print("The humidity is good ")
